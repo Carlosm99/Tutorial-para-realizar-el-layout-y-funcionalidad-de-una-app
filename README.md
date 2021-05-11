@@ -2,7 +2,7 @@
 
 Un nuevo proyecto de Flutter.
 Screen Shot de app
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## Empezando
 
