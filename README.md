@@ -1,7 +1,7 @@
 # interactividad_app
 
-Un nuevo proyecto de Flutter.
-Screen Shot de app
+#Un nuevo proyecto de Flutter.
+#Screen Shot de app
 <img src="assets/images/screenshot.jpg" height="800">
 <!-----![Screenshot](screenshot.jpg)--->
 
