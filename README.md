@@ -2,8 +2,8 @@
 
 Un nuevo proyecto de Flutter.
 Screen Shot de app
-<img src="assets/images/screenshot.jpg" height="50">
-![Screenshot](screenshot.jpg)
+<img src="assets/images/screenshot.jpg" height="500">
+<!-----![Screenshot](screenshot.jpg)--->
 
 ## Empezando
 
